@@ -1,8 +1,6 @@
 # 🏙️ AI Urban Planner Crew
 **Powered by LangGraph + OpenAI GPT-4.1-mini**
 
-🌐 **[View Live Application](https://langgraph-urban-planner-crew.vercel.app)**
-
 > **Transform urban planning constraints into comprehensive city designs. Define your scenario, and watch a multi-agent AI crew generate zoning plans, infrastructure layouts, sustainability assessments, and citizen experience narratives—all in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -311,8 +309,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://langgraph-urban-planner-crew.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
